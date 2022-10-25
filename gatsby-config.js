@@ -1,7 +1,8 @@
 module.exports = {
+  pathPrefix: "/fast-like-a-star-gatsby-site",
   siteMetadata: {
     title: `Fast Like A Star`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.fastlikeastar.com`
   },
   plugins: [{
     resolve: 'gatsby-plugin-google-analytics',
